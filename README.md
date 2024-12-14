@@ -23,3 +23,10 @@ php artisan key:generate
 ```
 php artisan migrate --seed
 ```
+
+### AKUN USER ADMIN DAN WARGA :
+
+```
+Email : admin.sisurpeng@gmail.com
+Password : admin123
+```
